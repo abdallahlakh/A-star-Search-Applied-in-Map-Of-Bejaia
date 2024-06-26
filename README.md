@@ -1,1 +1,1 @@
-./repo.pdf
+[project documentation](./README.pdf)
